@@ -1,4 +1,5 @@
 #Author Garrett Richardson
+
 #For this project we used multiple algorithms against each other to determine the largest suspects on multiple flights
 #We ran heuristic, brute force, and approximation algorithms. The best one we found was to create a threshold that will 
 #eliminate all individuals who should not be considered a suspect and then move on from that smaller data set creating a 
